@@ -49,4 +49,4 @@ Berikut adalah susunan arsitektur direktori serta fungsi dari file-file krusial 
 5. Buka tab baru di browser Anda dan jalankan aplikasi dengan mengakses URL: `localhost/pebewe/index.php`.
 
 ##  Link Video Presentasi Project
-* [Klik di sini untuk menonton Video Demo Aplikasi Unsika-Lab](Taruh_Link_Video_Kamu_Di_Sini)
+* [Klik di sini untuk menonton Video Demo Aplikasi Unsika-Lab](https://drive.google.com/file/d/1q7rUn-NPF-3RDu19Tu3thnuB7BgwKow6/view?usp=sharing)
